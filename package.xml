@@ -11,6 +11,8 @@
         <members>AppCls01</members>
         <members>AppCls02</members>
         <members>ApxCls1</members>
+        <members>ApxCls2</members>
+        <members>ApxCls3</members>
         <members>MyClass</members>
         <members>MyWorld</members>
         <name>ApexClass</name>

@@ -240,6 +240,40 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>Case.LogACall</members>
+        <members>Case.NewChildCase</members>
+        <members>CollaborationGroup.NewGroupMember</members>
+        <members>CollaborationGroup.NewGroupRecord</members>
+        <members>FeedItem.NewTaskFromFeedItem</members>
+        <members>LogACall</members>
+        <members>NewAccount</members>
+        <members>NewCase</members>
+        <members>NewContact</members>
+        <members>NewEvent</members>
+        <members>NewGroup</members>
+        <members>NewLead</members>
+        <members>NewNote</members>
+        <members>NewOpportunity</members>
+        <members>NewTask</members>
+        <members>SendEmail</members>
+        <members>ServiceAppointment.SendEmail</members>
+        <members>Task.Defer</members>
+        <members>Task.Defer_0</members>
+        <members>Task.Defer_1</members>
+        <members>Task.EditDescription</members>
+        <members>Task.EditDescription_0</members>
+        <members>Task.EditDescription_1</members>
+        <members>Task.UpdatePriority</members>
+        <members>Task.UpdatePriority_0</members>
+        <members>Task.UpdatePriority_1</members>
+        <members>Task.UpdateStatus</members>
+        <members>Task.UpdateStatus_0</members>
+        <members>Task.UpdateStatus_1</members>
+        <members>WorkOrder.SendEmail</members>
+        <members>WorkOrderLineItem.SendEmail</members>
+        <name>QuickAction</name>
+    </types>
+    <types>
         <members>CEO</members>
         <members>CFO</members>
         <members>COO</members>

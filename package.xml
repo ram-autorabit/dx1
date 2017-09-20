@@ -16,6 +16,15 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>DataCloudCompanyMatch</members>
+        <members>DataCloudGeoLocation</members>
+        <name>CleanDataService</name>
+    </types>
+    <types>
+        <members>Internal Zone</members>
+        <name>Community</name>
+    </types>
+    <types>
         <members>Account.Active__c</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.NumberofLocations__c</members>
@@ -42,6 +51,14 @@
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>Account.Standard_Account_Duplicate_Rule</members>
+        <members>Contact.Standard_Contact_Duplicate_Rule</members>
+        <members>Contact.Standard_Rule_for_Contacts_with_Duplicate_Leads</members>
+        <members>Lead.Standard_Lead_Duplicate_Rule</members>
+        <members>Lead.Standard_Rule_for_Leads_with_Duplicate_Contacts</members>
+        <name>DuplicateRule</name>
     </types>
     <types>
         <members>Account-Account %28Marketing%29 Layout</members>
@@ -125,6 +142,60 @@
         <members>WorkThanks-Thanks Layout</members>
         <members>WorkType-Work Type Layout</members>
         <name>Layout</name>
+    </types>
+    <types>
+        <members>Account.AllAccounts</members>
+        <members>Account.MyAccounts</members>
+        <members>Account.NewLastWeek</members>
+        <members>Account.NewThisWeek</members>
+        <members>Account.PlatinumandGoldSLACustomers</members>
+        <members>Activity.AllActivities</members>
+        <members>Activity.MyActivities</members>
+        <members>Activity.TodaysTasks</members>
+        <members>Activity.UpcomingEvents</members>
+        <members>Asset.AllAssets</members>
+        <members>Campaign.AllActiveCampaigns</members>
+        <members>Campaign.MyActiveCampaigns</members>
+        <members>Case.AllClosedCases</members>
+        <members>Case.AllOpenCases</members>
+        <members>Case.MyCases</members>
+        <members>Case.MyOpenCases</members>
+        <members>Contact.AllContacts</members>
+        <members>Contact.BirthdaysThisMonth</members>
+        <members>Contact.MyContacts</members>
+        <members>Contact.NewLastWeek</members>
+        <members>Contact.NewThisWeek</members>
+        <members>Contract.AllActivatedContracts</members>
+        <members>Contract.AllContracts</members>
+        <members>Contract.AllDraftContracts</members>
+        <members>Contract.AllInApprovalContracts</members>
+        <members>Contract.MyActivatedContracts</members>
+        <members>Contract.MyDraftContracts</members>
+        <members>Contract.MyInApprovalContracts</members>
+        <members>Lead.AllOpenLeads</members>
+        <members>Lead.MyUnreadLeads</members>
+        <members>Lead.TodaysLeads</members>
+        <members>Lead.ViewCustom1</members>
+        <members>Lead.ViewCustom2</members>
+        <members>Opportunity.AllOpportunities</members>
+        <members>Opportunity.ClosingNextMonth</members>
+        <members>Opportunity.ClosingThisMonth</members>
+        <members>Opportunity.Default_Opportunity_Pipeline</members>
+        <members>Opportunity.MyOpportunities</members>
+        <members>Opportunity.NewLastWeek</members>
+        <members>Opportunity.NewThisWeek</members>
+        <members>Opportunity.Private</members>
+        <members>Opportunity.Won</members>
+        <members>Order.AllActivatedOrders</members>
+        <members>Order.AllDraftOrders</members>
+        <members>Order.AllOrders</members>
+        <members>Product2.AllProducts</members>
+        <members>Solution.AllReviewedSolutions</members>
+        <members>Solution.AllUnreviewedSolutions</members>
+        <members>User.ActiveUsers</members>
+        <members>User.AdminUsers</members>
+        <members>User.AllUsers</members>
+        <name>ListView</name>
     </types>
     <types>
         <members>CEO</members>

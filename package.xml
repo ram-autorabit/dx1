@@ -15,6 +15,9 @@
         <members>ApxCls3</members>
         <members>MyClass</members>
         <members>MyWorld</members>
+        <members>aa</members>
+        <members>class1</members>
+        <members>class2</members>
         <name>ApexClass</name>
     </types>
     <types>

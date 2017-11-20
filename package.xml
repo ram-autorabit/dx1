@@ -318,6 +318,11 @@
         <name>QuickAction</name>
     </types>
     <types>
+        <members>Metric.Completion</members>
+        <members>Metric.Progress</members>
+        <name>RecordType</name>
+    </types>
+    <types>
         <members>ApexDevNet</members>
         <name>RemoteSiteSetting</name>
     </types>

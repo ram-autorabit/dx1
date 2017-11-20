@@ -278,6 +278,10 @@
         <name>QuickAction</name>
     </types>
     <types>
+        <members>ApexDevNet</members>
+        <name>RemoteSiteSetting</name>
+    </types>
+    <types>
         <members>CEO</members>
         <members>CFO</members>
         <members>COO</members>

@@ -110,7 +110,7 @@
             <operation>equals</operation>
             <value>TODAY</value>
         </filters>
-        <label>Today&apos;s Leads</label>
+        <label>Today's Leads</label>
     </listViews>
     <listViews>
         <fullName>ViewCustom1</fullName>
